@@ -1,0 +1,10 @@
+C:\Users\leonp\source\repos\astar pathfinding\astar pathfinding\bin\Debug\astar pathfinding.exe.config
+C:\Users\leonp\source\repos\astar pathfinding\astar pathfinding\bin\Debug\astar pathfinding.exe
+C:\Users\leonp\source\repos\astar pathfinding\astar pathfinding\bin\Debug\astar pathfinding.pdb
+C:\Users\leonp\source\repos\astar pathfinding\astar pathfinding\obj\Debug\astar pathfinding.csprojAssemblyReference.cache
+C:\Users\leonp\source\repos\astar pathfinding\astar pathfinding\obj\Debug\astar_pathfinding.Form1.resources
+C:\Users\leonp\source\repos\astar pathfinding\astar pathfinding\obj\Debug\astar_pathfinding.Properties.Resources.resources
+C:\Users\leonp\source\repos\astar pathfinding\astar pathfinding\obj\Debug\astar pathfinding.csproj.GenerateResource.cache
+C:\Users\leonp\source\repos\astar pathfinding\astar pathfinding\obj\Debug\astar pathfinding.csproj.CoreCompileInputs.cache
+C:\Users\leonp\source\repos\astar pathfinding\astar pathfinding\obj\Debug\astar pathfinding.exe
+C:\Users\leonp\source\repos\astar pathfinding\astar pathfinding\obj\Debug\astar pathfinding.pdb
